@@ -3,7 +3,6 @@ beautifulsoup4
 dj-database-url
 Django
 django-crispy-forms
-django-durationfield
 gunicorn
 pkg-resources
 pytz
